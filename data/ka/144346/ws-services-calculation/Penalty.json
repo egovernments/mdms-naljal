@@ -10,8 +10,8 @@
             "minAmount": null,
             "applicableAfterDays": 10,
             "flatAmount": null,
-            "fromFY": "2022-23",
-            "startingDay": "1/01/2022"
+            "fromFY": "2023-24",
+            "startingDay": "1/04/2023"
         }
     ]
 }
