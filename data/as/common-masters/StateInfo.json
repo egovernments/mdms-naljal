@@ -6,7 +6,7 @@
       "name": "Assam",
       "code": "as",
       "qrCodeURL": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png",
-      "bannerUrl": "https://naljal-uat.digit.org/naljal-uat-s3/Mysore-Palace-2.jpg",
+      "bannerUrl": "",
       "logoUrl": "https://naljal-uat.digit.org/naljal-uat-s3/image.png",
       "logoUrlWhite": "https://naljal-uat.digit.org/naljal-uat-s3/imagewhite.png",
       "stateLogoURL": "https://naljal-uat.digit.org/naljal-uat-s3/logo/Seal_of_Karnataka.svg",
@@ -18,8 +18,8 @@
       },
       "languages": [
         {
-           "label": "অসমীয়া",
-           "value": "as_IN"
+          "label": "অসমীয়া",
+          "value": "as_IN"
         },
         {
           "label": "ENGLISH",
@@ -28,8 +28,8 @@
       ],
       "stateLevelReports": [
         {
-           "label": "ROLL_OUT_DASHBOARD",
-           "url": "http://metabase-dwss.psegs.in/public/dashboard/7ba70453-ad98-4c79-ba1f-2c6be65f0549"
+          "label": "ROLL_OUT_DASHBOARD",
+          "url": "http://metabase-dwss.psegs.in/public/dashboard/7ba70453-ad98-4c79-ba1f-2c6be65f0549"
         },
         {
           "label": "iFix_DASHBOARD",
