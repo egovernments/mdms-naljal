@@ -1,0 +1,16 @@
+{
+  "tenantId": "as",
+  "moduleName": "ws-services-masters",
+  "schemeType": [
+    {
+      "name": "Under SBM",
+      "code": "under_sbm",
+      "active": true
+    },
+    {
+      "name": "Self Funded",
+      "code": "Self_Funded",
+      "active": true
+    }
+  ]
+}
