@@ -100,6 +100,14 @@
     {
       "format": "BILLNO-MODULE-[SEQ_EGBS_BILLNUMBER_[TENANT_ID]]",
       "idname": "bill.billnumber"
-    }     
+    },
+    {
+      "format": "[CITY.CODE][d{10}]",
+      "idname": "collection.transactionno"
+    },
+    {
+      "format": "[cy:MM]/[fy:yyyy-yy]/[SEQ_COLL_RCPT_NUM]",
+      "idname": "collection.receiptno"
+    }
   ]
 }
