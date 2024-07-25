@@ -5632,6 +5632,12 @@
       "actionid": 69,
       "actioncode": "",
       "tenantId": "ka"
+    },
+    {
+     "rolecode": "EMPLOYEE",
+     "actionid": 2028,
+     "actioncode": "",
+     "tenantId": "ka"
     }
 
   ]
