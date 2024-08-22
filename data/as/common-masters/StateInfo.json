@@ -3,13 +3,16 @@
   "moduleName": "common-masters",
   "StateInfo": [
     {
-      "name": "Karnataka",
+      "name": "Assam",
       "code": "as",
       "qrCodeURL": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png",
-      "bannerUrl": "https://naljal-uat.digit.org/naljal-uat-s3/Mysore-Palace-2.jpg",
-      "logoUrl": "https://naljal-uat.digit.org/naljal-uat-s3/image.png",
-      "logoUrlWhite": "https://naljal-uat.digit.org/naljal-uat-s3/imagewhite.png",
-      "stateLogoURL": "https://naljal-uat.digit.org/naljal-uat-s3/logo/Seal_of_Karnataka.svg",
+      "bannerUrl": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/Mysore-Palace-2.jpg",
+      "logoUrl": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/logo/image.png",
+      "digitFooterWhite": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/logo/nic-footer-bw.png",
+      "digitFooterColor": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/logo/nic-footer.png",
+      "nationalEmblemURL": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/logo/national-emblem-india.png",
+      "logoUrlWhite": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/logo/image.png",
+      "stateLogoURL": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/logo/Seal_of_Karnataka.svg",
       "hasLocalisation": true,
       "enableWhatsApp": true,
       "defaultUrl": {
@@ -18,8 +21,8 @@
       },
       "languages": [
         {
-           "label": "ಕನ್ನಡ",
-           "value": "kn_IN"
+          "label": "অসমীয়া",
+          "value": "as_IN"
         },
         {
           "label": "ENGLISH",
@@ -28,8 +31,8 @@
       ],
       "stateLevelReports": [
         {
-           "label": "ROLL_OUT_DASHBOARD",
-           "url": "http://metabase-dwss.psegs.in/public/dashboard/7ba70453-ad98-4c79-ba1f-2c6be65f0549"
+          "label": "ROLL_OUT_DASHBOARD",
+          "url": "http://metabase-dwss.psegs.in/public/dashboard/7ba70453-ad98-4c79-ba1f-2c6be65f0549"
         },
         {
           "label": "iFix_DASHBOARD",
