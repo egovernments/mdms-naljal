@@ -1,5 +1,5 @@
 {
-    "tenantId": "as.1842301",
+    "tenantId": "as.8153399",
     "moduleName": "egov-location",
     "TenantBoundary": [
         {
@@ -10,18 +10,18 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "BALICHAPARI PWSS",
-                "localname": "BALICHAPARI PWSS",
+                "name": "BARIKA CHUBURI PWSS",
+                "localname": "BARIKA CHUBURI PWSS",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "as.1842301",
+                "code": "as.8153399",
                 "children": [
                     {
                         "id": 1,
                         "boundaryNum": 1,
-                        "name": "BALICHAPARI PWSS",
-                        "localname": "BALICHAPARI PWSS",
+                        "name": "BARIKA CHUBURI PWSS",
+                        "localname": "BARIKA CHUBURI PWSS",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
@@ -38,18 +38,18 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "BALICHAPARI PWSS",
-                "localname": "BALICHAPARI PWSS",
+                "name": "BARIKA CHUBURI PWSS",
+                "localname": "BARIKA CHUBURI PWSS",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "as.1842301",
+                "code": "as.8153399",
                 "children": [
                     {
                         "id": 1,
                         "boundaryNum": 1,
-                        "name": "BALICHAPARI PWSS",
-                        "localname": "BALICHAPARI PWSS",
+                        "name": "BARIKA CHUBURI PWSS",
+                        "localname": "BARIKA CHUBURI PWSS",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
