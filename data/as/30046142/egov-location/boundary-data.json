@@ -1,5 +1,5 @@
 {
-    "tenantId": "as.1842301",
+    "tenantId": "as.30046142",
     "moduleName": "egov-location",
     "TenantBoundary": [
         {
@@ -10,18 +10,18 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "BALICHAPARI PWSS",
-                "localname": "BALICHAPARI PWSS",
+                "name": "TISIMPUR PWSS",
+                "localname": "TISIMPUR PWSS",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "as.1842301",
+                "code": "as.30046142",
                 "children": [
                     {
                         "id": 1,
                         "boundaryNum": 1,
-                        "name": "BALICHAPARI PWSS",
-                        "localname": "BALICHAPARI PWSS",
+                        "name": "TISIMPUR PWSS",
+                        "localname": "TISIMPUR PWSS",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
@@ -38,18 +38,18 @@
             "boundary": {
                 "id": 1,
                 "boundaryNum": 1,
-                "name": "BALICHAPARI PWSS",
-                "localname": "BALICHAPARI PWSS",
+                "name": "TISIMPUR PWSS",
+                "localname": "TISIMPUR PWSS",
                 "longitude": null,
                 "latitude": null,
                 "label": "City",
-                "code": "as.1842301",
+                "code": "as.30046142",
                 "children": [
                     {
                         "id": 1,
                         "boundaryNum": 1,
-                        "name": "BALICHAPARI PWSS",
-                        "localname": "BALICHAPARI PWSS",
+                        "name": "TISIMPUR PWSS",
+                        "localname": "TISIMPUR PWSS",
                         "longitude": null,
                         "latitude": null,
                         "label": "Locality",
