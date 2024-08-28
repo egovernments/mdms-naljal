@@ -416,6 +416,44 @@
             "contactNumber": "",
             "pdfHeader": "",
             "pdfContactDetails": ""
-        }
+        },
+        {
+            "code": "as.testing",
+            "name": "testing",
+            "description": "testing",
+            "logoId": "",
+            "imageId": null,
+            "domainUrl": "",
+            "city": {
+              "name": "testing",
+              "localName": "testing",
+              "districtCode": "204",
+              "districtName": "Shivamogga",
+              "blockcode": "2595",
+              "blockname": "Soraba",
+              "panchayatcode": "63625",
+              "panchayatname": "Udri",
+              "ulbGrade": "",
+              "longitude": null,
+              "latitude": null,
+              "captcha": null,
+              "shapeFileLocation": null,
+              "code": "testing",
+              "ddrName": "testing",
+              "projectId": "testing",
+              "regionName": "2595"
+            },
+            "twitterUrl": null,
+            "facebookUrl": null,
+            "emailId": "",
+            "OfficeTimings": {
+              "Mon - Fri": "9.00 AM - 6.00 PM"
+            },
+            "address": "testing",
+            "pincode": [],
+            "contactNumber": "",
+            "pdfHeader": "",
+            "pdfContactDetails": ""
+          }
     ]
 }
