@@ -2168,6 +2168,12 @@
       "tenantId": "as"
     },
     {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2010,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
       "rolecode": "BULK_DEMAND_PROCESSING",
       "actionid": 2011,
       "actioncode": "",
