@@ -5638,6 +5638,24 @@
       "actionid": 69,
       "actioncode": "",
       "tenantId": "as"
+    },
+   {
+      "rolecode": "SECRETARY",
+      "actionid": 2045,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "REVENUE_COLLECTOR",
+      "actionid": 2045,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+    {
+      "rolecode": "CHAIRMEN",
+      "actionid": 2045,
+      "actioncode": "",
+      "tenantId": "as"
     }
   ]
 }
