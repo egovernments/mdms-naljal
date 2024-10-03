@@ -1408,6 +1408,89 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.Delete Token"
+    },
+    {
+      "id": 2046,
+      "url": "/billing-service/demand/_getAggregateDemandDetails",
+      "code": "null",
+      "name": "Aggregated Demand Search",
+      "path": "",
+      "enabled": true,
+      "displayName": "Aggregated Demand Search",
+      "orderNumber": 1,
+      "serviceCode": "billing-services",
+      "parentModule": ""
+    },
+    {
+      "id": 2047,
+      "name": "Expense Report",
+      "url": "/echallan-services/eChallan/v1/_expenseBillReport",
+      "parentModule": "",
+      "displayName": "get expense bill report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "echallan-services",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 2048,
+      "url": "/ws-calculator/waterCalculator/_addPenalty",
+      "code": "null", "name": "Add Penalty",
+      "path": "",
+      "enabled": false,
+      "displayName": "Add Penalty",
+      "orderNumber": 2,
+      "serviceCode": "ws-calculator",
+      "parentModule": ""
+    },
+    {
+      "id": 2049,
+      "name": "Last demandGennerated",
+      "url": "/ws-services/wc/_countWCbyDemandGenerationDate",
+      "parentModule": "",
+      "displayName": "get the number of bill gennerated by date",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2050,
+      "name": "Demand not generated Report",
+      "url": "/ws-services/wc/consumers/demand-not-generated",
+      "parentModule": "",
+      "displayName": "get demand not generated Report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2051,
+      "name": "Ledger Report",
+      "url": "/ws-services/wc/ledger-report",
+      "parentModule": "",
+      "displayName": "get ledger report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2052,
+      "name": "Monthly Report",
+      "url": "/ws-services/wc/month-report",
+      "parentModule": "",
+      "displayName": "get month report",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
     }
   ]
 }
