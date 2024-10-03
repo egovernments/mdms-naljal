@@ -5650,7 +5650,179 @@
       "actionid": 2014,
       "actioncode": "",
       "tenantId": "as"
+    },
+	  {
+      "rolecode": "SECRETARY",
+      "actionid": 2046,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "SARPANCH",
+      "actionid": 2046,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2046,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	    {
+      "rolecode": "REVENUE_COLLECTOR",
+      "actionid": 2046,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	   {
+      "rolecode": "SECRETARY",
+      "actionid": 2047,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "SARPANCH",
+      "actionid": 2047,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2047,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	    {
+      "rolecode": "REVENUE_COLLECTOR",
+      "actionid": 2047,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	   {
+      "rolecode": "SECRETARY",
+      "actionid": 2048,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "SARPANCH",
+      "actionid": 2048,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2048,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	    {
+      "rolecode": "REVENUE_COLLECTOR",
+      "actionid": 2048,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	   {
+      "rolecode": "SECRETARY",
+      "actionid": 2049,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "SARPANCH",
+      "actionid": 2049,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2049,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	    {
+      "rolecode": "REVENUE_COLLECTOR",
+      "actionid": 2049,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	   {
+      "rolecode": "SECRETARY",
+      "actionid": 2050,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "SARPANCH",
+      "actionid": 2050,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2050,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	    {
+      "rolecode": "REVENUE_COLLECTOR",
+      "actionid": 2050,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	   {
+      "rolecode": "SECRETARY",
+      "actionid": 2051,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "SARPANCH",
+      "actionid": 2051,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2051,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	    {
+      "rolecode": "REVENUE_COLLECTOR",
+      "actionid": 2051,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	   {
+      "rolecode": "SECRETARY",
+      "actionid": 2052,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "SARPANCH",
+      "actionid": 2052,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	  {
+      "rolecode": "DIV_ADMIN",
+      "actionid": 2052,
+      "actioncode": "",
+      "tenantId": "as"
+    },
+	    {
+      "rolecode": "REVENUE_COLLECTOR",
+      "actionid": 2052,
+      "actioncode": "",
+      "tenantId": "as"
     }
+
+
+
+
 
   ]
 }
