@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.6526593",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RETROFITTING OF DHEKIAL MAZGAON PWSS",
+                "localname": "RETROFITTING OF DHEKIAL MAZGAON PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.6526593",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RETROFITTING OF DHEKIAL MAZGAON PWSS",
+                        "localname": "RETROFITTING OF DHEKIAL MAZGAON PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RETROFITTING OF DHEKIAL MAZGAON PWSS",
+                "localname": "RETROFITTING OF DHEKIAL MAZGAON PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.6526593",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RETROFITTING OF DHEKIAL MAZGAON PWSS",
+                        "localname": "RETROFITTING OF DHEKIAL MAZGAON PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
