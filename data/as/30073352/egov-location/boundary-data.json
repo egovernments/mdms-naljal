@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.30073352",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "FUTURIPARA 1 PWSS (NEW)",
+                "localname": "FUTURIPARA 1 PWSS (NEW)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30073352",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "FUTURIPARA 1 PWSS (NEW)",
+                        "localname": "FUTURIPARA 1 PWSS (NEW)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "FUTURIPARA 1 PWSS (NEW)",
+                "localname": "FUTURIPARA 1 PWSS (NEW)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30073352",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "FUTURIPARA 1 PWSS (NEW)",
+                        "localname": "FUTURIPARA 1 PWSS (NEW)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

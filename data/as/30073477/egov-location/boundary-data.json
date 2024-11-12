@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.30073477",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SIMLITOLA PWSS (NEW)",
+                "localname": "SIMLITOLA PWSS (NEW)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30073477",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SIMLITOLA PWSS (NEW)",
+                        "localname": "SIMLITOLA PWSS (NEW)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SIMLITOLA PWSS (NEW)",
+                "localname": "SIMLITOLA PWSS (NEW)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30073477",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SIMLITOLA PWSS (NEW)",
+                        "localname": "SIMLITOLA PWSS (NEW)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
