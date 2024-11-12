@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.3321879",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SOMORDOLONI PWSS",
+                "localname": "SOMORDOLONI PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.3321879",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SOMORDOLONI PWSS",
+                        "localname": "SOMORDOLONI PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SOMORDOLONI PWSS",
+                "localname": "SOMORDOLONI PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.3321879",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SOMORDOLONI PWSS",
+                        "localname": "SOMORDOLONI PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
