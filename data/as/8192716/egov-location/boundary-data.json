@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.8192716",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RETROFITTING OF LACHIT NAGAR RUDRAPATH PWSS",
+                "localname": "RETROFITTING OF LACHIT NAGAR RUDRAPATH PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.8192716",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RETROFITTING OF LACHIT NAGAR RUDRAPATH PWSS",
+                        "localname": "RETROFITTING OF LACHIT NAGAR RUDRAPATH PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RETROFITTING OF LACHIT NAGAR RUDRAPATH PWSS",
+                "localname": "RETROFITTING OF LACHIT NAGAR RUDRAPATH PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.8192716",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RETROFITTING OF LACHIT NAGAR RUDRAPATH PWSS",
+                        "localname": "RETROFITTING OF LACHIT NAGAR RUDRAPATH PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

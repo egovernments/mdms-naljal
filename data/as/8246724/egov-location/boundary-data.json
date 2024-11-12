@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.8246724",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BIHIYA GAON TINI ALI LPS",
+                "localname": "BIHIYA GAON TINI ALI LPS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.8246724",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BIHIYA GAON TINI ALI LPS",
+                        "localname": "BIHIYA GAON TINI ALI LPS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BIHIYA GAON TINI ALI LPS",
+                "localname": "BIHIYA GAON TINI ALI LPS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.8246724",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BIHIYA GAON TINI ALI LPS",
+                        "localname": "BIHIYA GAON TINI ALI LPS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

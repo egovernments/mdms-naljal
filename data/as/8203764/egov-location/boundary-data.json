@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.8203764",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RETROFITTING OF CHESAJHARA PWSS",
+                "localname": "RETROFITTING OF CHESAJHARA PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.8203764",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RETROFITTING OF CHESAJHARA PWSS",
+                        "localname": "RETROFITTING OF CHESAJHARA PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RETROFITTING OF CHESAJHARA PWSS",
+                "localname": "RETROFITTING OF CHESAJHARA PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.8203764",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RETROFITTING OF CHESAJHARA PWSS",
+                        "localname": "RETROFITTING OF CHESAJHARA PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
