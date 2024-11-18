@@ -3675,6 +3675,26 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+	"id": 2242,
+	"name": "Workbench",
+	"url": "url",
+	"displayName": "Workbench",
+	"orderNumber": 4,
+	"queryParams": "",
+	"parentModule": "",
+	"enabled": true,
+	"serviceCode": "Workbench",
+	"tenantId": "pg",
+	"createdDate": null,
+	"createdBy": null,
+	"lastModifiedDate": null,
+	"lastModifiedBy": null,
+	"path": "Workbench",
+	"navigationURL": "/workbench-ui/employee",
+	"leftIcon": "image:collections-bookmark",
+	"rightIcon": ""
+     }
   ]
 }
