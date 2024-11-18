@@ -6910,6 +6910,12 @@
       "actionid": 2241,
       "actioncode": "",
       "tenantId": "as"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2242,
+      "actioncode": "",
+      "tenantId": "as"
     }
   ]
 }
