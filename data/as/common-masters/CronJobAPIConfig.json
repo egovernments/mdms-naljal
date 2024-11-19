@@ -6,7 +6,7 @@
       "jobName": "monthly",
       "active": "false",
       "method": "POST",
-      "url": "http://ws-calculator.mgramseva:8080/ws-calculator/waterCalculator/_jobscheduler/false",
+      "url": "http://naljal-custom-service.mgramseva:8080/naljal-custom-service/_jobscheduler/false",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -18,7 +18,7 @@
       "jobName": "fortnightevening",
       "active": "true",
       "method": "POST",
-      "url": "http://ws-services.mgramseva:8080/ws-services/wc/_schedulerpendingcollection",
+      "url": "http://naljal-custom-service.mgramseva:8080/naljal-custom-service/_schedulerpendingcollection",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -30,7 +30,7 @@
       "jobName": "monthly",
       "active": "true",
       "method": "POST",
-      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulermonthsummary",
+      "url": "http://naljal-custom-service.mgramseva:8080/naljal-custom-service/_schedulermonthsummary",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -42,7 +42,7 @@
       "jobName": "fortnightevening",
       "active": "true",
       "method": "POST",
-      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulernewexpenditure",
+      "url": "http://naljal-custom-service.mgramseva:8080/naljal-custom-service/_schedulernewexpenditure",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -54,7 +54,7 @@
       "jobName": "fortnightevening",
       "active": "true",
       "method": "POST",
-      "url": "http://echallan-services.mgramseva:8080/echallan-services/eChallan/v1/_schedulermarkexpensebill",
+      "url": "http://naljal-custom-service.mgramseva:8080/naljal-custom-service/_schedulermarkexpensebill",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -66,7 +66,7 @@
       "jobName": "failedbulkdemand",
       "active": "false",
       "method": "POST",
-      "url": "http://ws-calculator.mgramseva:8080/ws-calculator/waterCalculator/_jobscheduler/true",
+      "url": "http://naljal-custom-service:8080/naljal-custom-service/_jobscheduler/true",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
@@ -78,7 +78,7 @@
       "jobName": "dailyevening",
       "active": "true",
       "method": "POST",
-      "url": "http://ws-services.mgramseva:8080/ws-services/wc/_schedulerTodaysCollection",
+      "url": "http://naljal-custom-service.mgramseva:8080/naljal-custom-service/_schedulerTodaysCollection",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
