@@ -6,7 +6,7 @@
       "name": "Assam",
       "code": "as",
       "qrCodeURL": "https://raw.githubusercontent.com/egovernments/frontend/master/web/rainmaker/dev-packages/egov-ui-kit-dev/src/assets/images/qrImage.png",
-      "bannerUrl": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/Mysore-Palace-2.jpg",
+      "bannerUrl": "https://assam-s3.s3.ap-south-1.amazonaws.com/assam-landscape.jpg",
       "logoUrl": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/logo/image.png",
       "digitFooterWhite": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/logo/nic-footer-bw.png",
       "digitFooterColor": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/logo/nic-footer.png",
