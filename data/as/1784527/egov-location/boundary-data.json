@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.1784527",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LABARIGAON P,W.S.S",
+                "localname": "LABARIGAON P,W.S.S",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.1784527",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "LABARIGAON P,W.S.S",
+                        "localname": "LABARIGAON P,W.S.S",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "LABARIGAON P,W.S.S",
+                "localname": "LABARIGAON P,W.S.S",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.1784527",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "LABARIGAON P,W.S.S",
+                        "localname": "LABARIGAON P,W.S.S",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

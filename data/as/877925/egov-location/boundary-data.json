@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.877925",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PATIDOI BHERELA  PWSS",
+                "localname": "PATIDOI BHERELA  PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.877925",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "PATIDOI BHERELA  PWSS",
+                        "localname": "PATIDOI BHERELA  PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PATIDOI BHERELA  PWSS",
+                "localname": "PATIDOI BHERELA  PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.877925",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "PATIDOI BHERELA  PWSS",
+                        "localname": "PATIDOI BHERELA  PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

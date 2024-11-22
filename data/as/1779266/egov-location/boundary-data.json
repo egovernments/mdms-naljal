@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.1779266",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "JOORPUKHURI PWSS",
+                "localname": "JOORPUKHURI PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.1779266",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "JOORPUKHURI PWSS",
+                        "localname": "JOORPUKHURI PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "JOORPUKHURI PWSS",
+                "localname": "JOORPUKHURI PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.1779266",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "JOORPUKHURI PWSS",
+                        "localname": "JOORPUKHURI PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

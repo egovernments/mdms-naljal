@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.1937635",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SILSAK DAMAS PWSS",
+                "localname": "SILSAK DAMAS PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.1937635",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SILSAK DAMAS PWSS",
+                        "localname": "SILSAK DAMAS PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "SILSAK DAMAS PWSS",
+                "localname": "SILSAK DAMAS PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.1937635",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "SILSAK DAMAS PWSS",
+                        "localname": "SILSAK DAMAS PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

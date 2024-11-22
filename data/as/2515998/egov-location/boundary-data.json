@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.2515998",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "HELAPAKHIRI PWSS",
+                "localname": "HELAPAKHIRI PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.2515998",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "HELAPAKHIRI PWSS",
+                        "localname": "HELAPAKHIRI PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "HELAPAKHIRI PWSS",
+                "localname": "HELAPAKHIRI PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.2515998",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "HELAPAKHIRI PWSS",
+                        "localname": "HELAPAKHIRI PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
