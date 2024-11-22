@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.30038636",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RAMHARIR CHAR PURNA NAGAR PACHIM PARA PWSS (NEW)",
+                "localname": "RAMHARIR CHAR PURNA NAGAR PACHIM PARA PWSS (NEW)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30038636",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RAMHARIR CHAR PURNA NAGAR PACHIM PARA PWSS (NEW)",
+                        "localname": "RAMHARIR CHAR PURNA NAGAR PACHIM PARA PWSS (NEW)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RAMHARIR CHAR PURNA NAGAR PACHIM PARA PWSS (NEW)",
+                "localname": "RAMHARIR CHAR PURNA NAGAR PACHIM PARA PWSS (NEW)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30038636",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RAMHARIR CHAR PURNA NAGAR PACHIM PARA PWSS (NEW)",
+                        "localname": "RAMHARIR CHAR PURNA NAGAR PACHIM PARA PWSS (NEW)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

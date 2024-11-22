@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.30050939",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BALISUTI BENGALI GAON PWSS",
+                "localname": "BALISUTI BENGALI GAON PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30050939",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BALISUTI BENGALI GAON PWSS",
+                        "localname": "BALISUTI BENGALI GAON PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BALISUTI BENGALI GAON PWSS",
+                "localname": "BALISUTI BENGALI GAON PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30050939",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BALISUTI BENGALI GAON PWSS",
+                        "localname": "BALISUTI BENGALI GAON PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
