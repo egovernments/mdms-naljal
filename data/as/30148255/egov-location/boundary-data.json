@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.30148255",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MOILAALI NO.1",
+                "localname": "MOILAALI NO.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30148255",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MOILAALI NO.1",
+                        "localname": "MOILAALI NO.1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MOILAALI NO.1",
+                "localname": "MOILAALI NO.1",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30148255",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MOILAALI NO.1",
+                        "localname": "MOILAALI NO.1",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
