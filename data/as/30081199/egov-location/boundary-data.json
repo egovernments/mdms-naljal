@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.30081199",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DHOLKOBA LINE 9 MPWS",
+                "localname": "DHOLKOBA LINE 9 MPWS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30081199",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DHOLKOBA LINE 9 MPWS",
+                        "localname": "DHOLKOBA LINE 9 MPWS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DHOLKOBA LINE 9 MPWS",
+                "localname": "DHOLKOBA LINE 9 MPWS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30081199",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DHOLKOBA LINE 9 MPWS",
+                        "localname": "DHOLKOBA LINE 9 MPWS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

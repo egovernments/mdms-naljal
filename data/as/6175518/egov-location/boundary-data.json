@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.6175518",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RETROFITTING OF CHIRJULI BAGAN PWSS ( QA )",
+                "localname": "RETROFITTING OF CHIRJULI BAGAN PWSS ( QA )",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.6175518",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RETROFITTING OF CHIRJULI BAGAN PWSS ( QA )",
+                        "localname": "RETROFITTING OF CHIRJULI BAGAN PWSS ( QA )",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RETROFITTING OF CHIRJULI BAGAN PWSS ( QA )",
+                "localname": "RETROFITTING OF CHIRJULI BAGAN PWSS ( QA )",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.6175518",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RETROFITTING OF CHIRJULI BAGAN PWSS ( QA )",
+                        "localname": "RETROFITTING OF CHIRJULI BAGAN PWSS ( QA )",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

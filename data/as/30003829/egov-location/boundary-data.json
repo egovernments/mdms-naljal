@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.30003829",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NO.1 DIBRU DARRANG(PART-A) PWSS",
+                "localname": "NO.1 DIBRU DARRANG(PART-A) PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30003829",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NO.1 DIBRU DARRANG(PART-A) PWSS",
+                        "localname": "NO.1 DIBRU DARRANG(PART-A) PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NO.1 DIBRU DARRANG(PART-A) PWSS",
+                "localname": "NO.1 DIBRU DARRANG(PART-A) PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30003829",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NO.1 DIBRU DARRANG(PART-A) PWSS",
+                        "localname": "NO.1 DIBRU DARRANG(PART-A) PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

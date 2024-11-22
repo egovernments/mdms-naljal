@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.30069142",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "THEPKAI PAHARTOLI PWSS (NEW)",
+                "localname": "THEPKAI PAHARTOLI PWSS (NEW)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30069142",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "THEPKAI PAHARTOLI PWSS (NEW)",
+                        "localname": "THEPKAI PAHARTOLI PWSS (NEW)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "THEPKAI PAHARTOLI PWSS (NEW)",
+                "localname": "THEPKAI PAHARTOLI PWSS (NEW)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30069142",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "THEPKAI PAHARTOLI PWSS (NEW)",
+                        "localname": "THEPKAI PAHARTOLI PWSS (NEW)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.30013836",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BETANI JHAR PWSS",
+                "localname": "BETANI JHAR PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30013836",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BETANI JHAR PWSS",
+                        "localname": "BETANI JHAR PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "BETANI JHAR PWSS",
+                "localname": "BETANI JHAR PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30013836",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "BETANI JHAR PWSS",
+                        "localname": "BETANI JHAR PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

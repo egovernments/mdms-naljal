@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.30186115",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "UTTAR MOLAN GAON PWSS",
+                "localname": "UTTAR MOLAN GAON PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30186115",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "UTTAR MOLAN GAON PWSS",
+                        "localname": "UTTAR MOLAN GAON PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "UTTAR MOLAN GAON PWSS",
+                "localname": "UTTAR MOLAN GAON PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30186115",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "UTTAR MOLAN GAON PWSS",
+                        "localname": "UTTAR MOLAN GAON PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

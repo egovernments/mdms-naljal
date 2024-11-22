@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.30174729",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NO.1 NALBARI WSS",
+                "localname": "NO.1 NALBARI WSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30174729",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NO.1 NALBARI WSS",
+                        "localname": "NO.1 NALBARI WSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NO.1 NALBARI WSS",
+                "localname": "NO.1 NALBARI WSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30174729",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NO.1 NALBARI WSS",
+                        "localname": "NO.1 NALBARI WSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

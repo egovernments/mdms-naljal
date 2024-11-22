@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.30010828",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NO.2 SINGARI BAGAN PWSS",
+                "localname": "NO.2 SINGARI BAGAN PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30010828",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NO.2 SINGARI BAGAN PWSS",
+                        "localname": "NO.2 SINGARI BAGAN PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "NO.2 SINGARI BAGAN PWSS",
+                "localname": "NO.2 SINGARI BAGAN PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30010828",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "NO.2 SINGARI BAGAN PWSS",
+                        "localname": "NO.2 SINGARI BAGAN PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

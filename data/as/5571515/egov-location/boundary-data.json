@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.5571515",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DIKARAI TE NLR 42/42 PWSS",
+                "localname": "DIKARAI TE NLR 42/42 PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.5571515",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DIKARAI TE NLR 42/42 PWSS",
+                        "localname": "DIKARAI TE NLR 42/42 PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "DIKARAI TE NLR 42/42 PWSS",
+                "localname": "DIKARAI TE NLR 42/42 PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.5571515",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "DIKARAI TE NLR 42/42 PWSS",
+                        "localname": "DIKARAI TE NLR 42/42 PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.30216214",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MANGALBARIA BAZAAR MULTI VILLAGE PWSS",
+                "localname": "MANGALBARIA BAZAAR MULTI VILLAGE PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30216214",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MANGALBARIA BAZAAR MULTI VILLAGE PWSS",
+                        "localname": "MANGALBARIA BAZAAR MULTI VILLAGE PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "MANGALBARIA BAZAAR MULTI VILLAGE PWSS",
+                "localname": "MANGALBARIA BAZAAR MULTI VILLAGE PWSS",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.30216214",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "MANGALBARIA BAZAAR MULTI VILLAGE PWSS",
+                        "localname": "MANGALBARIA BAZAAR MULTI VILLAGE PWSS",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
