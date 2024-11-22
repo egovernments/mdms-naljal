@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.7898574",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PACHPARA PWSS (SWAJAL)",
+                "localname": "PACHPARA PWSS (SWAJAL)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.7898574",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "PACHPARA PWSS (SWAJAL)",
+                        "localname": "PACHPARA PWSS (SWAJAL)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "PACHPARA PWSS (SWAJAL)",
+                "localname": "PACHPARA PWSS (SWAJAL)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.7898574",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "PACHPARA PWSS (SWAJAL)",
+                        "localname": "PACHPARA PWSS (SWAJAL)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "tenantId": "as.6175537",
+    "moduleName": "egov-location",
+    "TenantBoundary": [
+        {
+            "hierarchyType": {
+                "code": "REVENUE",
+                "name": "REVENUE"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RETROFITTING OF MOUKHUWAJAN PWSS ( QA ) (PERTAINING TO COURT CASE)",
+                "localname": "RETROFITTING OF MOUKHUWAJAN PWSS ( QA ) (PERTAINING TO COURT CASE)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.6175537",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RETROFITTING OF MOUKHUWAJAN PWSS ( QA ) (PERTAINING TO COURT CASE)",
+                        "localname": "RETROFITTING OF MOUKHUWAJAN PWSS ( QA ) (PERTAINING TO COURT CASE)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        },
+        {
+            "hierarchyType": {
+                "code": "ADMIN",
+                "name": "ADMIN"
+            },
+            "boundary": {
+                "id": 1,
+                "boundaryNum": 1,
+                "name": "RETROFITTING OF MOUKHUWAJAN PWSS ( QA ) (PERTAINING TO COURT CASE)",
+                "localname": "RETROFITTING OF MOUKHUWAJAN PWSS ( QA ) (PERTAINING TO COURT CASE)",
+                "longitude": null,
+                "latitude": null,
+                "label": "City",
+                "code": "as.6175537",
+                "children": [
+                    {
+                        "id": 1,
+                        "boundaryNum": 1,
+                        "name": "RETROFITTING OF MOUKHUWAJAN PWSS ( QA ) (PERTAINING TO COURT CASE)",
+                        "localname": "RETROFITTING OF MOUKHUWAJAN PWSS ( QA ) (PERTAINING TO COURT CASE)",
+                        "longitude": null,
+                        "latitude": null,
+                        "label": "Locality",
+                        "code": "WARD1"
+                    }
+                ]
+            }
+        }
+    ]
+}
