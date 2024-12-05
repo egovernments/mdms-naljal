@@ -137604,6 +137604,54 @@
       "contactNumber": "",
       "pdfHeader": "",
       "pdfContactDetails": ""
+    },
+    {
+      "code": "as.7363836",
+      "name": "Composite Piped Water Supply scheme for sustainability and  Quality in Chandrapur and Dimoria Development Block of Kamrup District",
+      "description": "Composite Piped Water Supply scheme for sustainability and  Quality in Chandrapur and Dimoria Development Block of Kamrup District",
+      "logoId": "",
+      "imageId": null,
+      "domainUrl": "",
+      "city": {
+        "name": "Composite Piped Water Supply scheme for sustainability and  Quality in Chandrapur and Dimoria Development Block of Kamrup District",
+        "localName": "Composite Piped Water Supply scheme for sustainability and  Quality in Chandrapur and Dimoria Development Block of Kamrup District",
+        "districtCode": "729",
+        "districtName": "Kamrup Metro",
+        "blockcode": "1224",
+        "blockname": "Chandrapur",
+        "panchayatcode": "22832",
+        "panchayatname": "Amsing",
+        "villageCode": "36187",
+        "villageName": "Amsing N.c.",
+        "ulbGrade": "",
+        "longitude": null,
+        "latitude": null,
+        "captcha": null,
+        "shapeFileLocation": null,
+        "code": "7363836",
+        "ddrName": "Composite Piped Water Supply scheme for sustainability and  Quality in Chandrapur and Dimoria Development Block of Kamrup District",
+        "projectId": "7363836",
+        "regionName": "1224"
+      },
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "address": "Composite Piped Water Supply scheme for sustainability and  Quality in Chandrapur and Dimoria Development Block of Kamrup District",
+      "districtCode": "729",
+      "districtName": "Kamrup Metro",
+      "blockcode": "1224",
+      "blockname": "Chandrapur",
+      "panchayatcode": "22832",
+      "panchayatname": "Amsing",
+      "villageName": "Amsing N.c.",
+      "villageCode": "36187",
+      "pincode": [],
+      "contactNumber": "",
+      "pdfHeader": "",
+      "pdfContactDetails": ""
     }
   ]
 }
