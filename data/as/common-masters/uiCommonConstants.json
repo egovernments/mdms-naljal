@@ -28,15 +28,15 @@
                   "title":"DASHBOARD_TITLE_PGR"
                },
                "rate-master":{
-                  "routePath":"/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/0bcf5130-b179-11ef-b863-f557ee6f0ade?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()",
+                  "routePath":"/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/0bcf5130-b179-11ef-b863-f557ee6f0ade?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=()&show-time-filter=true&hide-filter-bar=true",
                   "isOrigin":true
                },
                "state":{
-                  "routePath":"/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/e817c2f0-a8d0-11ef-a40b-75168365ac78?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15M,to:now))&_a=()",
+                  "routePath":"/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/e817c2f0-a8d0-11ef-a40b-75168365ac78?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15M,to:now))&_a=()&show-time-filter=true&hide-filter-bar=true",
                   "isOrigin":true
                },
                "rollout":{
-                  "routePath":"/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/ac1ee1c0-3832-11ef-841e-251f7e3bc6c7?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15M,to:now))&_a=()",
+                  "routePath":"/kibana/app/dashboards?auth_provider_hint=anonymous1#/view/ac1ee1c0-3832-11ef-841e-251f7e3bc6c7?_g=(refreshInterval:(pause:!t,value:60000),time:(from:now-15M,to:now))&_a=()&show-time-filter=true&hide-filter-bar=true",
                   "isOrigin":true
                }
             }
