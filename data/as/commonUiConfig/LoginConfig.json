@@ -25,7 +25,11 @@
                     "label": "CORE_LOGIN_PASSWORD",
                     "type": "password",
                     "populators": {
-                        "name": "password"
+                        "name": "password",
+                        "validation": {
+                            "maxlength": 20,
+                            "required": true
+                        }
                     },
                     "isMandatory": true
                 }

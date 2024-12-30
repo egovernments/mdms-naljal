@@ -23,6 +23,20 @@
           "code": "as.testing"
         }
       ]
+    },
+    {
+      "module": "Workbench",
+      "code": "Workbench",
+      "active": true,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "as.testing"
+        },
+         {
+          "code": "as"
+        }
+      ]
     }
   ]
 }
