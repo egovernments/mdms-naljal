@@ -13,6 +13,7 @@
       "nationalEmblemURL": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/logo/national-emblem-india.png",
       "logoUrlWhite": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/Assam_Logo.png",
       "statelogo": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/Assam_Logo.png",
+      "stateLogoURL": "https://naljal-uat-s3.s3.ap-south-1.amazonaws.com/Assam_Logo.png",
       "hasLocalisation": true,
       "enableWhatsApp": true,
       "defaultUrl": {

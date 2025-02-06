@@ -118,52 +118,61 @@
     {
       "code" : "OWNERIDPROOF",
       "allowedFormat" : ["image/*", ".pdf", ".png", ".jpeg"],
-      "maxFileSize": 6000
+      "maxFileSize": 6000,
+      "active": true
     },
     {
       "code" : "OWNERSHIPPROOF",
       "allowedFormat" : ["image/*", ".pdf", ".png", ".jpeg"],
-      "maxFileSize": 6000
+      "maxFileSize": 6000,
+      "active": true
     },
     {
       "code" : "OWNERPHOTO",
       "allowedFormat" : ["image/*", ".png", ".jpeg"],
-      "maxFileSize": 3000
+      "maxFileSize": 3000,
+      "active": true
     },
     {
       "code" : "OLDLICENCENO",
       "allowedFormat" : ["image/*", ".pdf", ".png", ".jpeg"],
-      "maxFileSize": 6000
+      "maxFileSize": 6000,
+      "active": true
     },
     {
       "code": "COURTORDER",
       "active": true,
       "allowedFormat" : ["image/*", ".png", ".jpeg"],
-      "maxFileSize": 3000
+      "maxFileSize": 3000,
+      "active": true
     },
     {
       "code": "SELFDECLARATION",
       "active": true,
       "allowedFormat" : ["image/*", ".png", ".jpeg"],
-      "maxFileSize": 3000
+      "maxFileSize": 3000,
+      "active": true
     },
     {
       "code": "GOVTNOTIFICATION",
       "active": true,
       "allowedFormat" : ["image/*", ".png", ".jpeg"],
-      "maxFileSize": 3000
+      "maxFileSize": 3000,
+      "active": true
     },
     {
       "code": "OFFICENOTEORDER",
       "active": true,
       "allowedFormat" : ["image/*", ".png", ".jpeg"],
-      "maxFileSize": 3000
+      "maxFileSize": 3000,
+      "active": true
     },
     {
       "code": "GOVTNOTIFICATION",
       "active": true,
       "allowedFormat" : ["image/*", ".png", ".jpeg"],
-      "maxFileSize": 3000
+      "maxFileSize": 3000,
+      "active": true
     }
   ]
 }
