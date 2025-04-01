@@ -345,6 +345,94 @@
       "service": "EXPENSE.INCENTIVES",
       "code": "EXPENSEINCENTIVES",
       "financialYear": "2024-25"
+    },
+     {
+      "fromDate": 1743445800000,
+      "toDate": 1774938599999,
+      "periodCycle": "ANNUAL",
+      "service": "EXPENSE.ELECTRICITY_BILL",
+      "code": "EXPENSEELECTRICITY_BILL",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774938599999,
+      "periodCycle": "ANNUAL",
+      "service": "EXPENSE.SALARY",
+      "code": "EXPENSESALARY",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774938599999,
+      "periodCycle": "ANNUAL",
+      "service": "EXPENSE.MACHINERY_REPAIR",
+      "code": "EXPENSEMACHINERYREPAIR",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774938599999,
+      "periodCycle": "ANNUAL",
+      "service": "EXPENSE.OTHERS",
+      "code": "EXPENSEOTHERS",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774938599999,
+      "periodCycle": "ANNUAL",
+      "service": "WS",
+      "code": "WC2024",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774938599999,
+      "periodCycle": "ANNUAL",
+      "service": "EXPENSE.CHLORINATION",
+      "code": "EXPENSECHLORINATION",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774938599999,
+      "periodCycle": "ANNUAL",
+      "service": "EXPENSE.WATER_TREATMENT",
+      "code": "EXPENSEWATERTREATMENT",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774938599999,
+      "periodCycle": "ANNUAL",
+      "service": "EXPENSE.PIPELINE_REPAIR",
+      "code": "EXPENSEPIPELINEREPAIR",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774938599999,
+      "periodCycle": "ANNUAL",
+      "service": "EXPENSE.NEW_MACHINERY",
+      "code": "EXPENSENEWMACHINERY",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774938599999,
+      "periodCycle": "ANNUAL",
+      "service": "EXPENSE.NEW_PIPELINE",
+      "code": "EXPENSENEWPIPELINE",
+      "financialYear": "2025-26"
+    },
+    {
+      "fromDate": 1743445800000,
+      "toDate": 1774938599999,
+      "periodCycle": "ANNUAL",
+      "service": "EXPENSE.INCENTIVES",
+      "code": "EXPENSEINCENTIVES",
+      "financialYear": "2025-26"
     }
   ]
 }
